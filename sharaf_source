@@ -1,0 +1,1812 @@
+
+
+  <!DOCTYPE html>
+        
+        
+            
+        
+    <html lang="tr-TR" data-website-id="1" data-oe-company-name="Blue Cell Trading Ltd">
+            
+        
+            
+                
+            
+            
+            
+            
+                
+            
+        
+        
+    <head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+        <meta name="generator" content="Odoo"/>
+        
+        
+        
+            
+            
+            
+        
+        
+        
+            
+            
+            
+                
+                    
+                        <meta property="og:type" content="website"/>
+                    
+                
+                    
+                        <meta property="og:title" content="Kıbrıs'ın Elektronik Marketi | Sharaf Electro Store"/>
+                    
+                
+                    
+                        <meta property="og:site_name" content="Blue Cell Trading Ltd"/>
+                    
+                
+                    
+                        <meta property="og:url" content="https://sharafstore.com/"/>
+                    
+                
+                    
+                        <meta property="og:image" content="https://sharafstore.com/web/image/website/1/logo?unique=b46bab0"/>
+                    
+                
+            
+            
+            
+                
+                    <meta name="twitter:card" content="summary_large_image"/>
+                
+                    <meta name="twitter:title" content="Kıbrıs'ın Elektronik Marketi | Sharaf Electro Store"/>
+                
+                    <meta name="twitter:image" content="https://sharafstore.com/web/image/website/1/logo?unique=b46bab0"/>
+                
+            
+        
+
+        
+            
+            
+        
+        <link rel="canonical" href="http://sharafstore.com/tr/"/>
+
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
+    
+        
+
+                <title> Kıbrıs'ın Elektronik Marketi | Sharaf Electro Store </title>
+                <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=b46bab0"/>
+            <link rel="preload" href="/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
+            <link type="text/css" rel="stylesheet" href="/web/content/276715-acac0fc/1/web.assets_common.css" data-asset-xmlid="web.assets_common" data-asset-version="acac0fc"/>
+            <link type="text/css" rel="stylesheet" href="/web/content/306986-2d2a74c/1/web.assets_frontend.css" data-asset-xmlid="web.assets_frontend" data-asset-version="2d2a74c"/>
+        
+    
+        
+
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "410f0fe8417b4022909669c6a9422baec4ebf5aao1748549710",
+                        debug: "",
+                    };
+                </script>
+            <script type="text/javascript">
+                odoo.session_info = {"is_admin": false, "is_system": false, "is_website_user": true, "user_id": false, "is_frontend": true, "translationURL": "/website/translations", "cache_hashes": {"translations": "3a98c98e91b7ae2ad5df3016cfc922a402e16f87"}};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script async="true" src="https://www.googletagmanager.com/gtag/js?id=G-K2SLZFTEKW"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+            
+              gtag('config', 'G-K2SLZFTEKW');
+            </script>
+            <script async="true" src="https://www.googletagmanager.com/gtag/js?id=AW-430224072"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                
+                gtag('config', 'AW-430224072');
+            </script>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-TKDJ7BJ');
+            </script>
+            <script>
+                gtag('event', 'conversion', {'send_to': 'AW-430224072/0EQiCI7y744YEMjlks0B'});
+            </script>
+            <script>
+                !function(f,b,e,v,n,t,s)
+                {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)}(window, document,'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+                fbq('init', '222367367029950');
+                fbq('track', 'PageView');
+            </script>
+            
+            <script defer="defer" type="text/javascript" src="/web/content/265514-720cee7/1/web.assets_common_minimal_js.js" data-asset-xmlid="web.assets_common_minimal_js" data-asset-version="720cee7"></script>
+            <script defer="defer" type="text/javascript" src="/web/content/265515-7d4064f/1/web.assets_frontend_minimal_js.js" data-asset-xmlid="web.assets_frontend_minimal_js" data-asset-version="7d4064f"></script>
+            
+        
+    
+            <script defer="defer" type="text/javascript" data-src="/web/content/276707-76d7a1d/1/web.assets_common_lazy.js" data-asset-xmlid="web.assets_common_lazy" data-asset-version="76d7a1d"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/content/306987-4fbb405/1/web.assets_frontend_lazy.js" data-asset-xmlid="web.assets_frontend_lazy" data-asset-version="4fbb405"></script>
+        
+    
+        
+            
+                
+            
+        
+    
+            
+            
+        </head>
+            <body class="">
+                
+        
+    
+            
+            
+        
+            
+        
+         
+      <div id="wrapwrap" class="homepage    ">
+                
+            <div class="te_auto_play_value d-none">
+                <span>True</span>
+            </div>
+        <header id="top" data-anchor="true" data-name="Header" class="  o_header_standard o_hoverable_dropdown">
+                    <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc header10">
+                <div class="oe_structure">
+                    </div>
+                <div class="container justify-content-md-between header_middle">
+                    <div class="middle_first">
+                        <button type="button" class="navbar-toggler ept_mobi_toggler header_sidebar collapsed ml-3">
+                            <span class="navbar-toggler-icon">
+                                <div class="inner_bar"></div>
+                            </span>
+                        </button>
+                        
+        
+        
+        <a href="/tr/" class="navbar-brand logo te_header_before_logo">
+            <span role="img" aria-label="Logo of Sharaf Electro Store" title="Sharaf Electro Store"><img src="/web/image/website/1/logo/Sharaf%20Electro%20Store?unique=b46bab0" class="img img-fluid" alt="Sharaf Electro Store" loading="lazy"/></span>
+        </a>
+    
+                        
+        
+        <div class=" te_bar_icon">
+            <a href="#" class="">
+                <i class="fa fa-sliders"></i>
+            </a>
+        </div>
+    
+                    </div>
+                    <div class="col-md-5 te_header_style_10_right">
+                        
+                        <div class="te_header_search">
+                            <div class="te_search_popover" tabindex="-1">
+                                
+    <form method="get" class="o_wsale_products_searchbar_form o_wait_lazy_js " action="/tr/shop">
+                <div role="search" class="input-group">
+        
+        <input type="search" name="search" class="search-query form-control oe_search_box" data-limit="5" data-display-description="true" data-display-price="true" data-display-image="true" placeholder="Ara..."/>
+            <div class="te_header_search_close te_srch_close_ept" style="z-index: 100;display:none;">
+                <a href="#">
+                    <span class="search_btn_close_ept"></span>
+                </a>
+            </div>
+        
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-primary oe_search_button" aria-label="Arama" title="Arama"><i class="fa fa-search"></i>
+            
+        </button>
+        </div>
+    </div>
+
+                <input name="order" type="hidden" class="o_wsale_search_order_by" value=""/>
+                
+            </form>
+        
+                            </div>
+                        </div>
+                    </div>
+                    <div class="te_header_right_icon">
+                        <div class="te_header_search">
+                            <div class="te_srch_icon_header">
+                                <a href="#" class="">
+                                      <i class="fa fa-search te_srch_icon"></i>
+                                      <i class="fa fa-times te_srch_close"></i>
+                                </a>
+                            </div>
+                        </div>
+                        
+        
+        
+        <li class="nav-item divider d-none"></li> 
+        <li class="o_wsale_my_cart  nav-item te_cart_icon_head ">
+            <a href="/tr/shop/cart" class="nav-link">
+                <i class="fa fa-shopping-cart"></i>
+                
+                <sup class="my_cart_quantity badge badge-primary" data-order-id="">0</sup>
+            </a>
+        </li>
+    
+                        
+        
+        
+            
+        
+        <li class="o_wsale_my_wish d-none nav-item o_wsale_my_wish_hide_empty te_wish_icon_head">
+            <a href="/tr/shop/wishlist" class="nav-link">
+                <i class="fa fa-1x fa-heart"></i>
+                
+                <sup class="my_wish_quantity o_animate_blink badge badge-primary">0</sup>
+            </a>
+        </li>
+    
+                        
+            <div class="te_header_lang">
+                
+        
+        
+        <div class="js_language_selector  dropdown">
+            <a class="dropdown-toggle custom-language-selector" style="color: black !important" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                <span class="fa fa-globe" style="font-size: 25px !important"></span>
+            </a>
+            <div class="dropdown-menu" role="menu">
+                
+                    <a class="dropdown-item js_change_lang" href="/" data-url_code="en">
+                        <span>English (US)</span>
+                    </a>
+                
+                    <a class="dropdown-item js_change_lang" href="/tr/" data-url_code="tr">
+                        <span> Türkçe</span>
+                    </a>
+                
+            </div>
+        </div>
+    
+            </div>
+        <div class="te_header_account">
+                            
+                            
+        <div class="px-2 te_signin">
+            
+                <a href="javascript:void(0);" class=" btn-link">
+                    
+                    <span class="te_user_account_icon ">
+                        <i aria-hidden="true" class="fa fa-user-o d-block"></i>
+                    </span>
+                </a>
+                
+        </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid header_bottom">
+                    <div class="container justify-content-start justify-content-lg-between">
+                        <div id="top_menu_collapse" class="collapse navbar-collapse">
+                            <div class="close_top_menu">x</div>
+                            
+    <ul id="top_menu" class="nav navbar-nav o_menu_loading ">
+        
+                                
+                                
+                                
+        
+            
+    
+            
+        
+            
+        
+            
+        
+            
+        
+    
+    <li class="nav-item te_mega_menu_ept m_custom te_all_dynamic_ept dropdown  position-static" id="50">
+        <a data-toggle="dropdown" class="nav-link dropdown-toggle o_mega_menu_toggle" href="#" data-id="50">
+                <span class="">Tüm Kategoriler</span>
+                
+                    
+                        
+        
+        
+        <span id="menu_label_tx_span">
+            
+                
+            
+        </span>
+    
+                    
+                
+            </a>
+        <div data-name="Mega Menu" class="dropdown-menu o_mega_menu o_mega_menu_container_size "><p style='margin:0px;font-size:13px;font-family:"Lucida Grande", Helvetica, Verdana, Arial, sans-serif;'><br></p></div>
+            
+        
+        </li>
+
+        
+            
+    
+            
+        
+            
+        
+            
+        
+            
+        
+    
+    <li class="nav-item dropdown  position-static" id="59">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle o_mega_menu_toggle">
+                <span class="">MARKALAR</span>
+                
+                    
+                        
+        
+        
+        <span id="menu_label_tx_span">
+            
+                
+            
+        </span>
+    
+                    
+                
+            </a>
+        
+            <div data-name="Mega Menu" class="dropdown-menu o_mega_menu dropdown-menu-left"><section data-snippet="our_partners_12_photos" class="o_colored_level" data-name="Our Partners 12 Photos">
+            <div class="mega_menu_container_partners" bis_skin_checked="1">
+                <div class="our_partners_block" bis_skin_checked="1">
+                    <a href="/tr/shop?search=&amp;attrib=171-2290&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/apple.png" alt="apple" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-2312">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/samsung.png" alt="samsung" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-2293&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/xiaomi.png" alt="xiaomi" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-6759&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/smeg.png" alt="smeg" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-2675&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/dyson.png" alt="dyson" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-2279&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/JBL.png" alt="ubl" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-2284">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/tcl.png" alt="tcl" loading="lazy">
+                    </a>
+                    <a href="">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/PLAYSTATION.png" alt="playstation" loading="lazy">
+                    </a>
+                    <a href="#">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/XBOX.png" alt="xbox" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-2340&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/ANKER.png" alt="anker" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-2559&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/HP.jpeg" alt="hp" loading="lazy">
+                    </a>
+                    <a href="/tr/shop?search=&amp;attrib=171-6526&amp;attrib=">
+                        <img src="/theme_custom/static/src/img/our_partners_12_photos/MSI.png" alt="msi" loading="lazy">
+                    </a>
+                </div>
+            </div>
+        </section></div>
+        
+        </li>
+
+        
+            
+    
+            
+        
+            
+        
+            
+        
+            
+        
+    <li class="nav-item">
+        
+            <a role="menuitem" href="/tr/tax-free-application" class="nav-link ">
+                <span class="">TAX FREE</span>
+                
+                    
+                        
+        
+        
+        <span id="menu_label_tx_span">
+            
+                
+            
+        </span>
+    
+                    
+                
+            </a>
+        </li>
+    
+
+        
+            
+    
+            
+        
+            
+        
+            
+        
+            
+        
+    <li class="nav-item">
+        
+            <a role="menuitem" href="/tr/store-locator" class="nav-link ">
+                <span class="">MAĞAZALAR</span>
+                
+                    
+                        
+        
+        
+        <span id="menu_label_tx_span">
+            
+                
+            
+        </span>
+    
+                    
+                
+            </a>
+        </li>
+    
+
+        
+            
+    
+            
+        
+            
+        
+            
+        
+            
+        
+    <li class="nav-item">
+        
+            <a role="menuitem" href="/tr/refund-policy" class="nav-link ">
+                <span class="">GARANTİ</span>
+                
+                    
+                        
+        
+        
+        <span id="menu_label_tx_span">
+            
+                
+            
+        </span>
+    
+                    
+                
+            </a>
+        </li>
+    
+
+        
+    
+                                <ul class="px-0 list-unstyled">
+                                    <li class="o_wsale_my_wish o_wsale_my_wish_hide_empty te_wish_icon_head"></li>
+                                    <li class="te_header_lang_mobi d-none">
+                                        
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        <div class="js_language_selector ml-2 dropdown">
+            <button class="btn btn-sm btn-link dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                
+        
+    <img class="o_lang_flag" src="/base/static/img/country_flags/tr.png?height=25" loading="lazy"/>
+
+    <span class="align-middle"> Türkçe</span>
+            
+            <span class="lang_btn_name"> Türkçe</span>
+            <span class="lang_btn_code" style="display:none">tr</span>
+        </button>
+            <div class="dropdown-menu" role="menu">
+                
+                    <a class="dropdown-item js_change_lang" href="/" data-url_code="en">
+                        
+        
+    <img class="o_lang_flag" src="/base/static/img/country_flags/us.png?height=25" loading="lazy"/>
+
+    
+            <span class="lang_btn_code" style="display:none">en</span>
+        <span>English (US)</span>
+                    </a>
+                
+                    <a class="dropdown-item js_change_lang" href="/tr/" data-url_code="tr">
+                        
+        
+    <img class="o_lang_flag" src="/base/static/img/country_flags/tr.png?height=25" loading="lazy"/>
+
+    
+            <span class="lang_btn_code" style="display:none">tr</span>
+        <span> Türkçe</span>
+                    </a>
+                
+        
+    
+
+    
+            </div>
+        </div>
+    
+    
+                                    </li>
+                                    
+                                    
+                                </ul>
+                            
+    </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+            <div class="te_vertical_menu te_vertical_style_10">
+                <section>
+                    <a href="#" class="te_menu_btn_close">
+                        <i class="fa fa-times te_menu_icon_close"></i>
+                    </a>
+                </section>
+                
+                <div>
+        <section class="s_rating menu_vertical_option">
+            <div class="te_side_bar">
+                <section>
+                    <div class="te_sidenav_menu">
+                        <ul>
+                            <section>
+                                <li>
+                                    <a href="/tr/shop">About Shop</a>
+                                </li>
+                            </section>
+                            <section>
+                                <li>
+                                    <a href="/tr/contactus">Help Center</a>
+                                </li>
+                            </section>
+                            <section>
+                                <li>
+                                    <a href="/tr/aboutus">Portfolio</a>
+                                </li>
+                            </section>
+                            <section>
+                                <li>
+                                    <a href="/tr/blog">Blog</a>
+                                </li>
+                            </section>
+                            <section>
+                                <li>
+                                    <a href="/tr/shop">New Look</a>
+                                </li>
+                            </section>
+                        </ul>
+                    </div>
+                    <div class="te_sidenav_content">
+                        <section>
+                            <p>Pellentesque mollis nec orci id tincidunt. Sed mollis risus eu nisi aliquet, sit amet
+                                fermentum.
+                            </p>
+                        </section>
+                    </div>
+                </section>
+                <section>
+                    <div class="te_content_text">
+                        <section>
+                            <a class="te_ver_add_ept" href="tel:">
+                                <span class="fa fa-phone"></span>
+                                <span></span>
+                            </a>
+                        </section>
+                        <section>
+                            <a class="te_ver_add_ept" href="mailto: info@sharafstore.com">
+                                <span class="fa fa-envelope"></span>
+                                <span>info@sharafstore.com</span>
+                            </a>
+                        </section>
+                        <section>
+                            <p class="te_ver_add_ept">
+                                <span class="fa fa-map-marker"></span>
+                                
+                                
+                                <span></span>
+                                
+                                <span></span>
+                                
+                            </p>
+                        </section>
+                    </div>
+                </section>
+                <section>
+                    <div class="te_sidenav_social_icon">
+                        <p></p>
+                        <div class="s_share te_social_icon ">
+                            
+                            <section>
+                                
+                            </section>
+                            <section>
+                                
+                            </section>
+                            <section>
+                                
+                            </section>
+                            <section>
+                                
+                            </section>
+                            <section>
+                                
+                            </section>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+    </div>
+            </div>
+        
+                
+            
+        <div class="oe_website_sale_ept">
+            <div class="modal fade" id="ajax_cart_model" tabindex="-1">
+                <div class="modal-dialog modal-md modal-dialog-centered">
+                    <div class="modal-content ajax_cart_modal">
+                        <button type="button" class="cart_close" data-dismiss="modal" aria-label="Close" tabindex="-1">
+                        </button>
+                        <div class="modal-body"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+            
+                <input type="hidden" id="ajax_cart_template" value="1"/>
+            
+        
+            
+                
+        <div class="modal fade text-left" id="loginRegisterPopup" role="dialog" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <button type="button" class="close d-md-none" data-dismiss="modal">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <div class="modal-body">
+                        <div role="tabpanel">
+                            
+                            <ul class="nav nav-tabs" role="tablist">
+                                <li role="presentation" class="login_register_tab  ">
+                                    <a href="#loginPopup" aria-controls="loginPopup" role="tab" class="active" data-toggle="tab">
+                                        Login
+                                    </a>
+                                </li>
+                                
+                                    <li role="presentation" class="login_register_tab">
+                                        <a href="#registerPopup" aria-controls="registerPopup" role="tab" class="" data-toggle="tab">
+                                            Register
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                            <div class="tab-content">
+                                <div role="tabpanel" class="tab-pane active" id="loginPopup">
+                                    
+        <form class="oe_login_form" role="form" method="post" onsubmit="this.action = this.action + location.hash" action="/web/login">
+            <input type="hidden" name="csrf_token" value="410f0fe8417b4022909669c6a9422baec4ebf5aao1748549710"/>
+            <input type="hidden" name="login_form_ept" value="1"/>
+            
+            
+            <div class="form-group field-login">
+                <label for="login">Email</label>
+                <input type="text" placeholder="Email" name="login" id="login" required="required" autofocus="autofocus" autocapitalize="off" class="form-control "/>
+            </div>
+
+            <div class="form-group field-password">
+                <label for="password">Password</label>
+                <input type="password" placeholder="Password" name="password" id="password" required="required" autocomplete="current-password" maxlength="4096" class="form-control "/>
+            </div>
+
+            <div class="alert-success-error">
+                <p class="alert alert-success d-none">You are successfully logged in</p>
+                <p class="alert alert-danger d-none"></p>
+            </div>
+
+            
+            
+
+            <div class="clearfix oe_login_buttons text-center mb-1 pt-3">
+                <button type="submit" class="btn btn-primary btn-block te_theme_button te_login_button">Log in
+                </button>
+                
+                <div class="justify-content-between mt-2 d-flex small">
+                    <a class="open_reset_password" data-keyboard="true" href="#resetPasswordPopup">Reset Password
+                    </a>
+                </div>
+                <div class="o_login_auth"></div>
+                
+                
+            </div>
+            <input type="hidden" name="redirect"/>
+        </form>
+
+        <form class="oe_reset_password_form te_reset_password_form" role="form" method="post">
+            <input type="hidden" name="csrf_token" value="410f0fe8417b4022909669c6a9422baec4ebf5aao1748549710"/>
+            <input type="hidden" name="reset_form_ept" value="1"/>
+
+            
+
+            
+                <div class="form-group field-login">
+                    <label for="login" class="col-form-label">Your Email</label>
+                    <input type="text" name="login" id="login" class="form-control" autofocus="autofocus" required="required" autocapitalize="off"/>
+                </div>
+            
+
+            
+            <div class="alert-success-error"></div>
+            <input type="hidden" name="redirect"/>
+            <input type="hidden" name="token"/>
+            <div class="clearfix oe_login_buttons">
+                <div class="d-flex justify-content-between align-items-center small">
+                    <button type="submit" class="btn btn-primary te_theme_button">Onayla</button>
+                    <a class="back_login" href="#loginPopup">Back to Login</a>
+                    
+                </div>
+                <div class="o_login_auth"></div>
+            </div>
+        </form>
+    
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="registerPopup">
+                                    
+        <form class="oe_signup_form_ept oe_signup_form" role="form" method="post" action="/web/signup">
+            <input type="hidden" name="csrf_token" value="410f0fe8417b4022909669c6a9422baec4ebf5aao1748549710"/>
+            <input type="hidden" name="signup_form_ept" value="1"/>
+
+            
+
+            <div class="form-group field-login">
+                <label for="login">E-Posta Adresiniz</label>
+                <input type="text" name="login" id="login" class="form-control form-control-sm" autofocus="autofocus" autocapitalize="off" required="required"/>
+            </div>
+
+            <div class="form-group field-name">
+                <label for="name">Adınız</label>
+                <input type="text" name="name" id="name" class="form-control form-control-sm" placeholder="Örn. John Doe" required="required"/>
+            </div>
+
+            <div class="form-group field-password pt-2">
+                <label for="password">Parola</label>
+                <input type="password" name="password" id="password" class="form-control form-control-sm" required="required"/>
+            </div>
+
+            <div class="form-group field-confirm_password">
+                <label for="confirm_password">Parolayı Doğrula</label>
+                <input type="password" name="confirm_password" id="confirm_password" class="form-control form-control-sm" required="required"/>
+            </div>
+        
+
+            
+            <div class="alert-success-error">
+                <p class="alert alert-success d-none">You are successfully register your account</p>
+                <p class="alert alert-danger d-none"></p>
+            </div>
+            
+            <input type="hidden" name="redirect"/>
+            <input type="hidden" name="token"/>
+            <div class="text-center oe_signup_buttons pt-3">
+                <button type="submit" class="btn btn-primary btn-block te_theme_button te_signup_button">Sign up
+                </button>
+                <div class="o_login_auth"></div>
+                
+                
+            </div>
+        </form>
+    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+            
+        
+            
+        <div class="modal fade" id="quick_view_model" tabindex="-1">
+            <div class="modal-dialog modal-lg modal-dialog-centered">
+                <div class="modal-content quick_view_modal">
+                    <button type="button" class="quick_close" data-dismiss="modal" aria-label="Close" tabindex="-1">
+                    </button>
+                    
+                        <div class="modal-body oe_website_sale"></div>
+                    
+                </div>
+            </div>
+        </div>
+    
+        <main>
+                   
+                    
+            
+        
+    
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_carousel_wrapper" data-vxml="001" data-snippet="full_screen_3_sharaf_desktop" data-name="Sharaf Main Carousel" style="">
+        <div id="myCarousel1704833693485" class="s_carousel s_carousel_default carousel slide d-flex" data-interval="5000" bis_skin_checked="1">
+          <ol class="carousel-indicators o_we_no_overlay">
+            <li data-target="#myCarousel1704833693485" data-slide-to="0"></li>
+            <li data-target="#myCarousel1704833693485" data-slide-to="1" class="active"></li>
+            <li data-target="#myCarousel1704833693485" data-slide-to="2"></li>
+            <li data-target="#myCarousel1704833693485" data-slide-to="3"></li>
+            <li data-target="#myCarousel1704833693485" data-slide-to="4"></li>
+            <li data-target="#myCarousel1704833693485" data-slide-to="5"></li>
+            <li data-target="#myCarousel1704833693485" data-slide-to="6"></li>
+            <li data-target="#myCarousel1704833693485" data-slide-to="7"></li>
+          </ol>
+          <div class="carousel-inner" bis_skin_checked="1">
+            <div class="desktop-carousel" bis_skin_checked="1">
+              <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+                <a href="/tr/shop/category/karne-kampanyas-316">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/309163-c15c020e/karne%20kampanyas%C4%B1-3%20%281%29.jpeg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip556017" data-original-id="309160" data-original-src="/web/image/309160-29060822/karne%20kampanyas%C4%B1-3%20%281%29.jpeg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="97"/>
+                </a>
+              </div>
+              <div class="carousel-item te_full_screen3 o_colored_level active" style="" bis_skin_checked="1">
+                <a href="/tr/shop?order=list_price+desc&amp;category=175">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/305720-b753e283/web%20banner.jpg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip556017" data-original-id="305719" data-original-src="/web/image/305719-1727c0ea/web%20banner.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="92"/>
+                </a>
+              </div>
+              <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+                <a href="/tr/shop/category/beyaz-esya-224">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/304623-1bc02d0b/beyaz%20eysa%20post%20kopya.jpg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip556017" data-original-id="304621" data-original-src="/web/image/304621-5fadadba/beyaz%20eysa%20post%20kopya.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="95"/>
+                </a>
+              </div>
+              <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+                <a href="/tr/shop?order=list_price+desc&amp;category=211">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/296516-4f692e12/%C3%87al%C4%B1%C5%9Fma%20y%C3%BCzeyi%201%20kopya%2021.jpg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip556017" data-original-id="288056" data-original-src="/web/image/288056-6900bf6a/%C3%87al%C4%B1%C5%9Fma%20y%C3%BCzeyi%201%20kopya%2021.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="94"/>
+                </a>
+              </div>
+              <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+                <a href="/tr/shop?order=name+asc&amp;category=186&amp;attrib=171-2284">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/294904-07d38569/web.jpg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip556017" data-original-id="294898" data-original-src="/web/image/294898-288a80c3/web.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="90"/>
+                </a>
+              </div>
+              <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+                <a href="/tr/shop?order=list_price+desc&amp;search=dyson">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/296139-21d89692/web%20banner.jpg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip556017" data-original-id="296137" data-original-src="/web/image/296137-d0e9e68c/web%20banner.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="91"/>
+                </a>
+              </div>
+              <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+                <a href="/tr/shop?order=list_price+desc&amp;search=apple">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/295094-9014136a/web%20son.jpg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip556017" data-original-id="295088" data-original-src="/web/image/295088-1ec27ea1/web%20son.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="96"/>
+                </a>
+              </div>
+              <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+                <a href="/tr/shop?search=t-pro+series&amp;order=">
+                  <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/295450-f2de1f1e/web%20klima%20banneri.jpg" loading="lazy" style="width: 100%;" data-original-title="" title="" aria-describedby="tooltip69253" data-original-id="295438" data-original-src="/web/image/295438-05e0b6c3/web%20klima%20banneri.jpg" data-mimetype="image/jpeg" data-resize-width="1920" data-quality="100"/>
+                </a>
+              </div>
+            </div>
+            <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833693485" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+              <span class="carousel-control-prev-icon">
+                <br/>
+              </span>
+              <span class="sr-only">Previous</span>
+            </div>
+            <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833693485" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+              <span class="carousel-control-next-icon"></span>
+              <span class="sr-only o_default_snippet_text">Next</span>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_carousel_wrapper" data-vxml="001" data-snippet="full_screen_3_sharaf_mobile" data-name="Sharaf Main Carousel Mobile" style="">
+        <div id="myCarousel1704833798147" class="s_carousel s_carousel_default carousel slide d-flex" data-interval="5000" bis_skin_checked="1">
+          <ol class="carousel-indicators o_we_no_overlay">
+            <li data-target="#myCarousel1704833798147" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel1704833798147" data-slide-to="1"></li>
+            <li data-target="#myCarousel1704833798147" data-slide-to="2"></li>
+            <li data-target="#myCarousel1704833798147" data-slide-to="3"></li>
+            <li data-target="#myCarousel1704833798147" data-slide-to="4"></li>
+            <li data-target="#myCarousel1704833798147" data-slide-to="5"></li>
+            <li data-target="#myCarousel1704833798147" data-slide-to="6"></li>
+            <li data-target="#myCarousel1704833798147" data-slide-to="7"></li>
+          </ol>
+          <div class="carousel-inner mobile_carousel" bis_skin_checked="1">
+            <div class="carousel-item te_full_screen3 o_colored_level active" style="" bis_skin_checked="1">
+              <a href="/tr/shop/category/karne-kampanyas-316">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/309176-8e9f1c05/karne%20kampanyas%C4%B1-4.jpeg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip476224" data-original-id="309165" data-original-src="/web/image/309165-f4bfbfed/karne%20kampanyas%C4%B1-4.jpeg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="99"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+            <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+              <a href="/tr/shop?order=list_price+desc&amp;category=175">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/305722-efc42513/mobl%20banner.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip476224" data-original-id="305721" data-original-src="/web/image/305721-e7ecbb5d/mobl%20banner.jpg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="94"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+            <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+              <a href="/tr/shop/category/beyaz-esya-224">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/304624-8d38cb41/mobil%20banner.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip476224" data-original-id="304622" data-original-src="/web/image/304622-82e4ece4/mobil%20banner.jpg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="94"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+            <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+              <a href="/tr/shop?order=list_price+desc&amp;category=211">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/296517-72d74eb4/%C3%87al%C4%B1%C5%9Fma%20y%C3%BCzeyi%201%20kopya%2038.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip476224" data-original-id="288060" data-original-src="/web/image/288060-68987729/%C3%87al%C4%B1%C5%9Fma%20y%C3%BCzeyi%201%20kopya%2038.jpg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="99"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+            <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+              <a href="/tr/shop?order=name+asc&amp;category=186&amp;attrib=171-2284">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/294905-3912c74c/mobil.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip476224" data-original-id="294899" data-original-src="/web/image/294899-04954b66/mobil.jpg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="98"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+            <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+              <a href="/tr/shop?order=list_price+desc&amp;search=dyson">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/296140-1b79eef5/mobile%20dyson.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip476224" data-original-id="296138" data-original-src="/web/image/296138-8f9e06c2/mobile%20dyson.jpg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="97"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+            <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+              <a href="/tr/shop?order=list_price+desc&amp;search=apple">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/295132-b35ee063/mobil%20son.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip476224" data-original-id="295130" data-original-src="/web/image/295130-c15b3830/mobil%20son.jpg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="96"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+            <div class="carousel-item te_full_screen3 o_colored_level" style="" bis_skin_checked="1">
+              <a href="/tr/shop?search=t-pro+series&amp;order=">
+                <img class="img img-responsive img-fluid d-block mx-auto" alt="" src="/web/image/295444-64350a9e/mobile%20banner%20tcl.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip829158" data-original-id="295441" data-original-src="/web/image/295441-b18db77f/mobile%20banner%20tcl.jpg" data-mimetype="image/jpeg" data-resize-width="750" data-quality="100"/>
+              </a>
+              <div class="carousel-control-prev o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="prev" role="img" aria-label="Previous" title="Previous" bis_skin_checked="1">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only o_default_snippet_text">Previous</span>
+              </div>
+              <div class="carousel-control-next o_we_no_overlay" data-target="#myCarousel1704833798147" data-slide="next" role="img" aria-label="Next" title="Next" bis_skin_checked="1">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only o_default_snippet_text">Next</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_product" class="o_colored_level" data-name="Custom Sharaf Load Slider">
+        <div id="productCaruselSharaf" data-target="id_for_productCaruselSharaf" bis_skin_checked="1">
+          <div class="js_slider_snippet" data-isemipro="true" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_product" style="display:grid" bis_skin_checked="1">
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_brand" class="o_colored_level" data-name="Custom Sharaf Load Slider Brand">
+        <div id="brandCaruselSharaf" data-target="" bis_skin_checked="1">
+          <div class="js_category_brand_snippet" data-isemipro="true" name="category-slider" data-name="category-slider" data-item_ids="311,310,265,224,210,207,195,183,180,179,175" data-style="10" data-sort_by="sequence" data-limit="11" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_brand" style="display:grid" bis_skin_checked="1">
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product_brand" bis_skin_checked="1">
+                <div class="skeleton_img_brand animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name_brand animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="title_and_link" class="o_colored_level" data-name="Title And Link" style="">
+        <div class="sharaf__container__snippet position__items" bis_skin_checked="1">
+          <h4 class="custom__title">
+            <a href="/tr/shop?order=list_price+desc&amp;category=183&amp;attrib=171-2284" data-original-title="" title="" aria-describedby="tooltip298481">TCL TV</a>
+          </h4>
+          <a class="custom__link" href="/tr/shop?order=list_price+desc&amp;category=183&amp;attrib=171-2284" target="_blank" data-original-title="" title="" aria-describedby="tooltip190114">View All<i class="fa fa-angle-right"></i></a>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_product" class="o_colored_level" data-name="Custom Sharaf Load Slider">
+        <div id="productCaruselSharaf" data-target="id_for_productCaruselSharaf" bis_skin_checked="1">
+          <div class="js_slider_snippet" name="manual-configuration" data-isemipro="true" data-name="manual-configuration" data-item_ids="16859,18630,18632,18628,18629,18637,18634,18635,18627,16862,18636,18631,18633,18626,18638" data-style="16" data-ui_option="shopping_cart,sale_label" data-slider_type="slider" data-sort_by="list_price desc" data-limit="20" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_product" style="display:grid" bis_skin_checked="1">
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="two_photo" class="o_colored_level" data-name="Two Photo">
+        <div class="sharaf__container__snippet two__photo__grid" bis_skin_checked="1">
+          <a href="/tr/shop/category/haftann-10-u-311">
+            <img class="photo__height" src="/web/image/302145-c926385e/1.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip458071" alt="" data-original-id="302144" data-original-src="/web/image/302144-acc7ebb6/1.jpg" data-mimetype="image/jpeg" data-resize-width="779" data-quality="100"/>
+          </a>
+          <a href="/tr/shop/category/en-yeni-urunler-burada-310">
+            <img class="photo__height" src="/web/image/303050-80df6248/Frame%201.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip171371" alt="" data-original-id="303043" data-original-src="/web/image/303043-59b91407/Frame%201.jpg" data-mimetype="image/jpeg" data-resize-width="779" data-quality="96"/>
+          </a>
+        </div>
+      </section>
+      <section data-snippet="title_and_link" class="o_colored_level pt48" data-name="Title And Link">
+        <div class="sharaf__container__snippet position__items" bis_skin_checked="1">
+          <h4 class="custom__title">
+            <a href="/tr/shop/category/mobil-ve-aksesuar-akll-telefon-175">Akıllı Telefonlar</a>
+          </h4>
+          <a class="custom__link" href="/tr/shop/category/mobil-ve-aksesuar-akll-telefon-175" target="_blank" data-original-title="" title="" aria-describedby="tooltip921132">View All<i class="fa fa-angle-right"></i></a>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_product" class="o_colored_level" data-name="Custom Sharaf Load Slider">
+        <div id="productCaruselSharaf" data-target="id_for_productCaruselSharaf" bis_skin_checked="1">
+          <div class="js_slider_snippet" name="custom-domain" data-isemipro="true" data-name="custom-domain" data-item_ids="1" data-style="16" data-ui_option="shopping_cart,sale_label" data-slider_type="slider" data-sort_by="list_price desc" data-limit="20" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_product" style="display:grid" bis_skin_checked="1">
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="title_and_link" class="o_colored_level pt0" data-name="Title And Link">
+        <div class="sharaf__container__snippet position__items" bis_skin_checked="1">
+          <h4 class="custom__title">
+            <a href="/tr/shop/category/kucuk-ev-aletleri-supurgeler-dikey-sarjl-supurgeler-236" data-original-title="" title="" aria-describedby="tooltip277929">Cordless Vacuum</a>
+          </h4>
+          <a class="custom__link" href="/tr/shop/category/kucuk-ev-aletleri-supurgeler-dikey-sarjl-supurgeler-236" target="_blank" data-original-title="" title="" aria-describedby="tooltip830246">View All<i class="fa fa-angle-right"></i></a>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_product" class="o_colored_level" data-name="Custom Sharaf Load Slider">
+        <div id="productCaruselSharaf" data-target="id_for_productCaruselSharaf" bis_skin_checked="1">
+          <div class="js_slider_snippet" name="custom-domain" data-isemipro="true" data-name="custom-domain" data-item_ids="6" data-style="16" data-ui_option="shopping_cart,sale_label" data-slider_type="slider" data-sort_by="list_price desc" data-limit="20" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_product" style="display:grid" bis_skin_checked="1">
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="title_and_link" class="o_colored_level" data-name="Title And Link">
+        <div class="sharaf__container__snippet position__items" bis_skin_checked="1">
+          <h4 class="custom__title">
+            <a href="/tr/shop/category/mobil-ve-aksesuar-tablet-179" data-original-title="" title="" aria-describedby="tooltip439393">Tablet</a>
+          </h4>
+          <a class="custom__link" href="/tr/shop/category/mobil-ve-aksesuar-tablet-179" target="_blank" data-original-title="" title="" aria-describedby="tooltip476329">View All<i class="fa fa-angle-right"></i></a>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_product" class="o_colored_level" data-name="Custom Sharaf Load Slider">
+        <div id="productCaruselSharaf" data-target="id_for_productCaruselSharaf" bis_skin_checked="1">
+          <div class="js_slider_snippet" name="custom-domain" data-isemipro="true" data-name="custom-domain" data-item_ids="5" data-style="16" data-ui_option="shopping_cart,sale_label" data-slider_type="slider" data-sort_by="list_price desc" data-limit="20" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_product" style="display:grid" bis_skin_checked="1">
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="two_photo" class="o_colored_level pb24 pt24" data-name="Two Photo" style="">
+        <div class="sharaf__container__snippet two__photo__grid" bis_skin_checked="1">
+          <a href="/tr/shop/category/bilgisayar-oyun-laptop-208" data-original-title="" title="" aria-describedby="tooltip433375">
+            <img class="photo__height" src="/web/image/307905-1f3580e8/qq.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip691809" alt="" data-original-id="307903" data-original-src="/web/image/307903-1047dfff/qq.jpg" data-mimetype="image/jpeg" data-resize-width="779" data-quality="99"/>
+          </a>
+          <a href="/tr/shop?search=JBL&amp;order=">
+            <img class="photo__height" src="/web/image/292489-cc3aa223/%C3%87al%C4%B1%C5%9Fma%20y%C3%BCzeyi%202.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip143422" alt="" data-original-id="274744" data-original-src="/web/image/274744-ccf1e588/%C3%87al%C4%B1%C5%9Fma%20y%C3%BCzeyi%202.jpg" data-mimetype="image/jpeg" data-resize-width="779"/>
+          </a>
+        </div>
+      </section>
+      <section data-snippet="title_and_link" class="o_colored_level" data-name="Title And Link">
+        <div class="sharaf__container__snippet position__items" bis_skin_checked="1">
+          <h4 class="custom__title">
+            <a href="/tr/shop/category/kucuk-ev-aletleri-supurgeler-robot-supurgeler-235">Robot Vacuum Mop</a>
+          </h4>
+          <a class="custom__link" href="/tr/shop/category/kucuk-ev-aletleri-supurgeler-robot-supurgeler-235" target="_blank" data-original-title="" title="" aria-describedby="tooltip366007">View All<i class="fa fa-angle-right"></i></a>
+        </div>
+      </section>
+      <section data-snippet="s_dynamic_snippet" class="s_dynamic_snippet_products s_dynamic o_colored_level pt0 pb0 d-none" data-name="Dynamic Products" data-number-of-elements="6" data-number-of-elements-small-devices="1" data-carousel-interval="5000" data-template-key="website.dynamic_filter_template_image_title_footer" data-product-category-id="1026" data-filter-id="2" data-number-of-records="16" style="">
+        <div class="o_not_editable container-fluid" bis_skin_checked="1">
+          <div class="css_non_editable_mode_hidden" bis_skin_checked="1">
+            <div class="missing_option_warning alert alert-info rounded-0 fade show d-print-none o_default_snippet_text d-none" bis_skin_checked="1"> Your Dynamic Snippet will be displayed here... This message is displayed because you did not provided both a filter and a template to use.<br/></div>
+          </div>
+          <div class="dynamic_snippet_template" bis_skin_checked="1"></div>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_product" class="o_colored_level" data-name="Custom Sharaf Load Slider">
+        <div id="productCaruselSharaf" data-target="id_for_productCaruselSharaf" bis_skin_checked="1">
+          <div class="js_slider_snippet" name="custom-domain" data-isemipro="true" data-name="custom-domain" data-item_ids="4" data-style="16" data-ui_option="shopping_cart,sale_label" data-slider_type="slider" data-sort_by="list_price desc" data-limit="20" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_product" style="display:grid" bis_skin_checked="1">
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section data-snippet="title_and_link" class="o_colored_level" data-name="Title And Link">
+        <div class="sharaf__container__snippet position__items" bis_skin_checked="1">
+          <h4 class="custom__title">
+            <a href="/tr/shop/category/bilgisayar-oyun-laptop-208">Notebook</a>
+          </h4>
+          <a class="custom__link" href="/tr/shop/category/bilgisayar-oyun-laptop-208" target="_blank" data-original-title="" title="" aria-describedby="tooltip773418">View All<i class="fa fa-angle-right"></i></a>
+        </div>
+      </section>
+      <section data-snippet="sharaf_load_slider_product" class="o_colored_level" data-name="Custom Sharaf Load Slider">
+        <div id="productCaruselSharaf" data-target="id_for_productCaruselSharaf" bis_skin_checked="1">
+          <div class="js_slider_snippet" name="custom-domain" data-isemipro="true" data-name="custom-domain" data-item_ids="3" data-style="16" data-ui_option="shopping_cart,sale_label" data-slider_type="slider" data-sort_by="list_price desc" data-limit="20" bis_skin_checked="1"></div>
+          <div class="sharaf__container__snippet" bis_skin_checked="1">
+            <div class="loading_snippet_carousel_product" style="display:grid" bis_skin_checked="1">
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+              <div class="load_product" bis_skin_checked="1">
+                <div class="skeleton_img animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_name animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_price animated-background" bis_skin_checked="1"></div>
+                <div class="skeleton_button animated-background" bis_skin_checked="1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="pt8 pb8 o_colored_level" data-snippet="p_slider" data-name="Product Snippet Builder">
+        <div class="js_slider_snippet" data-isemipro="true" bis_skin_checked="1"></div>
+      </section>
+      <section class="o_colored_level pb0 pt0" data-snippet="p_slider" data-name="Product Snippet Builder" style="">
+        
+      </section>
+    </div>
+  
+                
+            <div class="oe_website_sale_ept">
+                <div class="modal fade" id="ajax_cart_model_shop" tabindex="-1">
+                    <div class="modal-dialog modal-md modal-dialog-centered">
+                        <div class="modal-content ajax_cart_modal">
+                            <button type="button" class="cart_close" data-dismiss="modal" aria-label="Close" tabindex="-1">
+                            </button>
+                            <div class="modal-body">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="ios-prompt">
+                <span style="color: rgb(187, 187, 187); float: right;"></span>
+                <img style="float: left; height: 50px; width: auto; margin-right: 1rem;" src="/web/image/website/1/app_image_512/50x50" loading="lazy"/>
+                <p>To install this Web App in your iPhone/iPad press <img src="/pwa_ept/static/src/img/icon.png" style="display: inline-block; height: 20px;" loading="lazy"/> and then Add to Home Screen.</p>
+            </div>
+            <div class="ept_is_offline" style="display:none;">
+                <img src="/pwa_ept/static/src/img/offline_app.png" alt="App offline" loading="lazy"/>
+            </div>
+            <style>
+              .ios-prompt {
+                background-color: #fff;
+                border: 1px solid #eee;
+                box-shadow: 0 1px 10px #ccc;
+                display: none;
+                padding: 0.8rem 1rem 0 0.5rem;
+                text-decoration: none;
+                font-size: 14px;
+                color: #555;
+                position: fixed;
+                bottom: 0;
+                margin: 0 auto 1rem;
+                z-index: 999;
+              }
+              .ept_is_offline {
+                position: fixed;
+                bottom: 1rem;
+                left: 1rem;
+                height: 65px;
+                width: 65px;
+                z-index: 9999;
+              }
+              .ept_is_offline img {
+                width: 100%;
+              }
+            </style>
+        </main>
+                   <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
+                    <div class="footer_figure_section">
+                <div class="footer_middle_block_figure sharaf__container__snippet">
+                    <figure class="footer_figure bigger_footer_figure">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="72" height="71" viewBox="0 0 72 71" fill="none">
+                            <path d="M34.9334 44.9189C32.9432 44.9189 31.332 46.5544 31.332 48.5169C31.332 50.433 32.8958 52.1152 34.9334 52.1152C36.9711 52.1152 38.5821 50.433 38.5821 48.5169C38.5821 46.5544 36.9236 44.9189 34.9334 44.9189Z" fill="black"></path>
+                            <path d="M36 0C16.1028 0 0 15.8774 0 35.5C0 55.1205 16.101 71 36 71C55.8972 71 72 55.1226 72 35.5C72 15.8792 55.899 0 36 0ZM36 66.0465C18.9194 66.0465 5.02327 52.3435 5.02327 35.5C5.02327 18.6565 18.9194 4.9535 36 4.9535C53.0807 4.9535 66.9767 18.6565 66.9767 35.5C66.9767 52.3435 53.0807 66.0465 36 66.0465Z" fill="black"></path>
+                            <path d="M35.5501 17.6768C29.1528 17.6768 26.2148 21.4152 26.2148 23.9385C26.2148 25.7609 27.7786 26.6021 29.058 26.6021C31.617 26.6021 30.5745 23.0038 35.4079 23.0038C37.7772 23.0038 39.6728 24.032 39.6728 26.1815C39.6728 28.7048 37.0191 30.1533 35.4553 31.4617C34.081 32.6297 32.2804 34.5458 32.2804 38.5645C32.2804 40.9943 32.9439 41.6953 34.8866 41.6953C37.2085 41.6953 37.6824 40.6673 37.6824 39.7793C37.6824 37.3494 37.7298 35.9476 40.3361 33.9383C41.6155 32.957 45.6433 29.7793 45.6433 25.3869C45.6433 20.9945 41.6155 17.6768 35.5501 17.6768Z" fill="black"></path>
+                        </svg>
+                        <figcaption class="footer_figcaption">
+                            <ul>
+                                <li>Yardıma mı ihtiyacınız var?</li>
+                                <li>
+                                    <a href="/tr/contactus">Bize destek kanallarımızdan ulaşabilirsiniz.</a>
+                                </li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                    <figure class="footer_figure footer_figure_aria">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="72" viewBox="0 0 48 72">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M0 24C0 10.7666 10.7656 0 24 0C37.2344 0 48 10.7666 48 24C48 27.9727 47.0078 31.9111 45.125 35.3936L25.3125 71.2266C25.1797 71.4668 24.9883 71.6611 24.7617 71.7949C24.5352 71.9268 24.2734 72 24 72C23.4531 72 22.9531 71.7041 22.6875 71.2266L2.88281 35.4053C0.992188 31.9111 0 27.9727 0 24ZM24 34C29.5234 34 34 29.5225 34 24C34 18.4775 29.5234 14 24 14C18.4766 14 14 18.4775 14 24C14 29.5225 18.4766 34 24 34Z" fill="black"></path>
+                        </svg>
+
+                        <figcaption class="footer_figcaption">
+                            <ul>
+                                <li>Mağazalar</li>
+
+                                <li>
+                                    <a href="/tr/store-locator">Yakındaki bir mağazayı bulun.</a>
+                                </li>
+
+                            </ul>
+                        </figcaption>
+                    </figure>
+                    <figure class="footer_figure footer_figure_aria">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="71" height="67" viewBox="0 0 71 67">
+                            <path d="M64.7598 0H6.24023C2.79937 0 0 2.79937 0 6.24023V47.8418C0 51.2827 2.79937 54.082 6.24023 54.082H12.6191V64.4824C12.6191 65.3237 13.126 66.0823 13.9032 66.4041C14.6806 66.726 15.5752 66.5481 16.1701 65.9532L28.0413 54.082H64.7598C68.2006 54.082 71 51.2827 71 47.8418V6.24023C71 2.79937 68.2006 0 64.7598 0ZM66.8398 47.8418C66.8398 48.9888 65.9067 49.9219 64.7598 49.9219H27.1797C26.628 49.9219 26.099 50.1411 25.7089 50.5312L16.7793 59.4606V52.002C16.7793 50.8532 15.848 49.9219 14.6992 49.9219H6.24023C5.09328 49.9219 4.16016 48.9888 4.16016 47.8418V6.24023C4.16016 5.09328 5.09328 4.16016 6.24023 4.16016H64.7598C65.9067 4.16016 66.8398 5.09328 66.8398 6.24023V47.8418Z" fill="black"></path>
+                            <path d="M52.0417 22.1752C51.7985 21.4154 51.1425 20.8618 50.3529 20.7498L41.3664 19.4748L37.3565 11.5421C37.0025 10.8418 36.2847 10.4004 35.5001 10.4004C34.7155 10.4004 33.9978 10.8419 33.6437 11.5421L29.6339 19.4748L20.6474 20.7498C19.8578 20.8618 19.2017 21.4154 18.9585 22.1749C18.7153 22.9344 18.9279 23.7661 19.5056 24.3158L25.9782 30.4759L24.4526 39.1614C24.316 39.939 24.6314 40.7271 25.2671 41.1955C25.9026 41.664 26.7487 41.7323 27.4512 41.3718L35.5001 37.2405L43.5491 41.3721C44.2516 41.7326 45.0976 41.6644 45.7331 41.1958C46.3687 40.7272 46.6842 39.9393 46.5477 39.1616L45.022 30.4762L51.4947 24.3161C52.0724 23.7663 52.285 22.9347 52.0417 22.1752ZM41.3464 28.2311C40.8419 28.7112 40.6112 29.4119 40.7317 30.0978L41.7264 35.7601L36.45 33.0517C36.1519 32.8987 35.826 32.8222 35.5001 32.8222C35.1742 32.8222 34.8484 32.8988 34.5502 33.0517L29.2739 35.7601L30.2686 30.0978C30.3891 29.4119 30.1583 28.7112 29.6539 28.2311L25.4865 24.2649L31.2928 23.4411C31.9661 23.3457 32.5503 22.9269 32.857 22.3201L35.5001 17.0913L38.1432 22.3201C38.45 22.927 39.034 23.3457 39.7074 23.4411L45.5138 24.2649L41.3464 28.2311Z" fill="black"></path>
+                        </svg>
+
+                        <figcaption class="footer_figcaption">
+                            <ul>
+                                <li>Geribildirim</li>
+
+                                <li>
+                                    <a href="/tr/contactus">Bize geri bildirimlerinizi gönderin.</a>
+                                </li>
+
+                            </ul>
+                        </figcaption>
+                    </figure>
+                    <figure class="footer_figure footer_figure_aria mob_margin_footer">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+                            <path d="M54.9111 44.5291L48.7029 40.3899L43.184 36.7113C42.119 36.0027 40.6876 36.235 39.9013 37.2443L36.4863 41.6345C35.7527 42.5871 34.4331 42.8609 33.3812 42.2785C31.064 40.9895 28.3238 39.7759 22.2779 33.7222C16.2319 27.6684 15.0105 24.936 13.7216 22.6188C13.1391 21.5669 13.4129 20.2473 14.3655 19.5138L18.7557 16.0988C19.7649 15.3127 19.9973 13.8813 19.2887 12.8161L15.7231 7.46718L11.471 1.08893C10.7472 0.00328348 9.29848 -0.322651 8.17958 0.348358L3.27569 3.2903C1.95041 4.07112 0.976218 5.33198 0.55491 6.81148C-0.786123 11.7008 -1.0565 22.4865 16.229 39.772C33.5144 57.0574 44.2991 56.7861 49.1884 55.445C50.6679 55.0238 51.9288 54.0496 52.7096 52.7242L55.6516 47.8204C56.3227 46.7014 55.9967 45.2528 54.9111 44.5291Z" fill="black"></path>
+                            <path d="M31.86 8.68978C40.9207 8.69985 48.2635 16.0426 48.2736 25.1034C48.2736 25.6366 48.7058 26.069 49.2392 26.069C49.7724 26.069 50.2047 25.6367 50.2047 25.1034C50.1936 14.9766 41.9869 6.76995 31.8601 6.75879C31.3269 6.75879 30.8945 7.19103 30.8945 7.72434C30.8944 8.25743 31.3267 8.68978 31.86 8.68978Z" fill="black"></path>
+                            <path d="M31.8601 14.4829C37.7229 14.4898 42.4737 19.2407 42.4806 25.1034C42.4806 25.6366 42.9129 26.0689 43.4462 26.0689C43.9794 26.0689 44.4117 25.6367 44.4117 25.1034C44.4037 18.1747 38.7889 12.5597 31.8601 12.5518C31.3269 12.5518 30.8945 12.984 30.8945 13.5173C30.8945 14.0506 31.3268 14.4829 31.8601 14.4829Z" fill="black"></path>
+                            <path d="M31.86 20.2757C34.5249 20.2789 36.6843 22.4384 36.6875 25.1033C36.6875 25.6365 37.1198 26.0688 37.6531 26.0688C38.1863 26.0688 38.6186 25.6366 38.6186 25.1033C38.6144 21.3724 35.5909 18.349 31.8601 18.3447C31.3269 18.3447 30.8945 18.777 30.8945 19.3103C30.8944 19.8435 31.3267 20.2757 31.86 20.2757Z" fill="black"></path>
+                        </svg>
+
+                        <figcaption class="footer_figcaption">
+                            <ul>
+                                <li>Bizimle İletişime Geçin</li>
+
+                                <li>
+                                    <a href="tel:+905338508819">+90 533 850 88 19</a>
+                                </li>
+
+                            </ul>
+                        </figcaption>
+                    </figure>
+                    <figure class="footer_figure footer_figure_aria mob_margin_footer">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+                            <path d="M48.5547 56.3316C50.8108 57.1799 53.3545 56.6298 55.059 54.9254C56.7636 53.2206 57.3138 50.6765 56.4651 48.4209L48.5547 56.3316Z" fill="black"></path>
+                            <path d="M7.47332 10.1608C7.65101 10.2054 7.81362 10.2976 7.94322 10.427L22.4207 24.9048L25.0404 22.2854L10.5627 7.8076C10.4328 7.67788 10.341 7.51475 10.2962 7.33654L9.385 3.70427L3.34464 0.250977L0.386719 3.20877L3.84105 9.25329L7.47332 10.1608Z" fill="black"></path>
+                            <path d="M20.3466 43.1851L43.3201 20.2112C43.5717 19.9593 43.9369 19.8583 44.2821 19.9442C47.3068 20.7195 50.5197 20.0477 52.9814 18.127C55.4436 16.2063 56.8757 13.2525 56.8592 10.1302C56.8592 9.94 56.8536 9.7484 56.8413 9.55511L51.4979 14.8979C51.2272 15.1689 50.8256 15.2639 50.4617 15.1425L44.3843 13.1164C44.0817 13.0162 43.8443 12.7789 43.7433 12.4765L41.7178 6.39897C41.5962 6.03553 41.691 5.63388 41.9624 5.36261L47.3057 0.0194779C44.088 -0.180698 40.9685 1.17114 38.9134 3.65487C36.8584 6.13913 36.1158 9.45659 36.9151 12.5795C37.0017 12.9252 36.9008 13.2902 36.6489 13.542L13.6758 36.5143C13.4237 36.7643 13.059 36.8657 12.7135 36.7811C11.9137 36.5757 11.0912 36.4692 10.265 36.466C5.90259 36.4373 2.00476 39.1873 0.568435 43.3074C-0.867109 47.4272 0.477316 52.0043 3.91306 54.6931C7.3488 57.382 12.1148 57.5876 15.7689 55.2037C19.4233 52.8199 21.156 48.3755 20.0791 44.1471C19.9934 43.802 20.0947 43.4364 20.3466 43.1851ZM12.7305 50.647H7.80023L5.36862 46.5955L7.80023 42.5434H12.7305L15.1616 46.5955L12.7305 50.647ZM16.6397 38.7887L38.9236 16.5045L40.3557 17.9368L18.0717 40.221L16.6397 38.7887Z" fill="black"></path>
+                            <path d="M55.0591 46.2271L43.6825 34.846C42.4276 35.9008 40.5746 35.8206 39.4147 34.6622C38.2547 33.504 38.173 31.6515 39.226 30.3953L37.6148 28.7822L28.918 37.4795L30.5389 39.1002C31.7937 38.0454 33.6471 38.1254 34.8062 39.2834C35.9661 40.4418 36.0484 42.2946 34.9952 43.5509L46.3622 54.9239C46.4862 55.0479 46.6171 55.1628 46.7493 55.2746L55.41 46.6138C55.2985 46.4814 55.1831 46.351 55.0591 46.2271ZM49.0535 50.3502L38.9245 40.2212L40.3566 38.7889L50.4858 48.9185L49.0535 50.3502Z" fill="black"></path>
+                        </svg>
+                        <figcaption class="footer_figcaption">
+                            <ul>
+                                <li>Teknik Servis</li>
+                                <li>
+                                    <a href="tel:+905338508820">+90 533 850 88 20</a>
+                                </li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="footer_middle_block sharaf__container__snippet">
+                <ul class="about_sharaf_footer">
+                    <li>
+                        SHARAF  HAKKINDA
+                    </li>
+                    <li>
+                        <a href="/tr/about-us">Biz Kimiz</a>
+                    </li>
+                    <li>
+                        <a href="/tr/blog">Blog</a>
+                    </li>
+                </ul>
+                <ul class="about_sharaf_policies">
+                    <li>
+                        POLİTİKALAR
+                    </li>
+                    <li>
+                        <a href="/tr/refund-policy">Geri Ödeme Politikası</a>
+                    </li>
+                    <li>
+                        <a href="/tr/privacy-policy">Gizlilik Politikası</a>
+                    </li>
+                    <li>
+                        <a href="/tr/tax-free-application">Tax-Free Uygulaması</a>
+                    </li>
+                </ul>
+                <div class="footer_payment">
+                    <h3>ÖDEME TÜRLERİ</h3>
+                    <a href="#">
+                        <img src="/theme_custom/static/src/img/footer/payment.png" alt="payment" loading="lazy"/>
+                    </a>
+                </div>
+                <div class="footer_logo_and_social_media">
+                    <a href="#">
+                        <img src="/theme_custom/static/src/img/footer/sharaf.png" alt="logo" loading="lazy"/>
+                    </a>
+                    <div class="social_media_block">
+                        <a href="https://www.facebook.com/sharafelectrostore">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" viewBox="0 0 66 66">
+                                <path d="M30 25.501V28.5011H27V33.0011H30V46.501H36V33.0011H39.99L40.5 28.5011H36V25.876C36 24.6611 36.12 24.016 37.9949 24.016H40.5V19.501H36.48C31.6801 19.5011 30 21.751 30 25.501Z" fill="black"></path>
+                                <path d="M33 0C14.7746 0 0 14.7746 0 33C0 51.2254 14.7746 66 33 66C51.2254 66 66 51.2254 66 33C66 14.7746 51.2254 0 33 0ZM33 63C16.4314 63 3.00004 49.5686 3.00004 33C3.00004 16.4314 16.4314 3.00004 33 3.00004C49.5686 3.00004 63 16.4314 63 33C63 49.5686 49.5686 63 33 63Z" fill="black"></path>
+                            </svg>
+                        </a>
+                        <a href="https://instagram.com/sharafelectrostore?igshid=NzZlODBkYWE4Ng==">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="67" height="68" viewBox="0 0 67 68">
+                                <path d="M66.8297 19.702C66.6727 16.1413 66.0969 13.6934 65.2721 11.5723C64.4212 9.32071 63.1121 7.3049 61.3969 5.62914C59.7212 3.92731 57.6921 2.60491 55.4666 1.76729C53.3332 0.942452 50.898 0.366651 47.3374 0.209661C43.7501 0.0393753 42.6113 0 33.513 0C24.4148 0 23.276 0.0393753 19.702 0.196365C16.1413 0.353356 13.6934 0.929668 11.5728 1.75399C9.32071 2.60491 7.3049 3.91401 5.62914 5.62914C3.92731 7.3049 2.60542 9.33401 1.76729 11.5595C0.942452 13.6934 0.366651 16.128 0.209661 19.6887C0.0393753 23.276 0 24.4148 0 33.513C0 42.6113 0.0393753 43.7501 0.196365 47.3241C0.353356 50.8847 0.929668 53.3327 1.7545 55.4538C2.60542 57.7054 3.92731 59.7212 5.62914 61.3969C7.3049 63.0988 9.33401 64.4212 11.5595 65.2588C13.6934 66.0836 16.128 66.6594 19.6892 66.8164C23.2627 66.9739 24.402 67.0128 33.5003 67.0128C42.5985 67.0128 43.7373 66.9739 47.3113 66.8164C50.8719 66.6594 53.3199 66.0836 55.4405 65.2588C59.9441 63.5176 63.5048 59.9569 65.246 55.4538C66.0703 53.3199 66.6466 50.8847 66.8036 47.3241C66.9606 43.7501 67 42.6113 67 33.513C67 24.4148 66.9867 23.276 66.8297 19.702ZM60.7951 47.0623C60.6508 50.335 60.1011 52.1023 59.6429 53.2805C58.5169 56.1999 56.1999 58.5169 53.2805 59.6429C52.1023 60.1011 50.3222 60.6508 47.0623 60.7945C43.5277 60.952 42.4676 60.9909 33.5263 60.9909C24.5851 60.9909 23.5117 60.952 19.9899 60.7945C16.7171 60.6508 14.9499 60.1011 13.7717 59.6429C12.3189 59.106 10.9965 58.2551 9.9231 57.1423C8.81037 56.0557 7.95945 54.7466 7.42251 53.2938C6.96433 52.1156 6.41461 50.335 6.27091 47.0756C6.11341 43.541 6.07455 42.4804 6.07455 33.5391C6.07455 24.5978 6.11341 23.5245 6.27091 20.0032C6.41461 16.7304 6.96433 14.9632 7.42251 13.785C7.95945 12.3316 8.81037 11.0098 9.9364 9.93589C11.0225 8.82315 12.3316 7.97223 13.785 7.43581C14.9632 6.97762 16.7437 6.4279 20.0032 6.28369C23.5378 6.1267 24.5984 6.08733 33.5391 6.08733C42.4937 6.08733 43.5538 6.1267 47.0756 6.28369C50.3483 6.4279 52.1156 6.97762 53.2938 7.43581C54.7466 7.97223 56.069 8.82315 57.1423 9.93589C58.2551 11.0225 59.106 12.3316 59.6429 13.785C60.1011 14.9632 60.6508 16.7432 60.7951 20.0032C60.952 23.5378 60.9914 24.5978 60.9914 33.5391C60.9914 42.4804 60.952 43.5277 60.7951 47.0623Z" fill="black"></path>
+                                <path d="M33.5116 16.2979C24.0078 16.2979 16.2969 24.0083 16.2969 33.5126C16.2969 43.0169 24.0078 50.7273 33.5116 50.7273C43.0159 50.7273 50.7263 43.0169 50.7263 33.5126C50.7263 24.0083 43.0159 16.2979 33.5116 16.2979ZM33.5116 44.6793C27.346 44.6793 22.3448 39.6786 22.3448 33.5126C22.3448 27.3465 27.346 22.3458 33.5116 22.3458C39.6777 22.3458 44.6783 27.3465 44.6783 33.5126C44.6783 39.6786 39.6777 44.6793 33.5116 44.6793Z" fill="black"></path>
+                                <path d="M55.4288 15.6175C55.4288 17.8368 53.6293 19.6363 51.4095 19.6363C49.1901 19.6363 47.3906 17.8368 47.3906 15.6175C47.3906 13.3976 49.1901 11.5986 51.4095 11.5986C53.6293 11.5986 55.4288 13.3976 55.4288 15.6175Z" fill="black"></path>
+                            </svg>
+                        </a>
+                        <a href="https://wa.me/+905338508819">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+                                <path d="M52.5214 42.9215L52.4944 43.1465C45.8974 39.8585 45.2074 39.4205 44.3554 40.6985C43.7644 41.5835 42.0424 43.5905 41.5234 44.1845C40.9984 44.7695 40.4764 44.8145 39.5854 44.4095C38.6854 43.9595 35.7964 43.0145 32.3764 39.9545C29.7124 37.5695 27.9244 34.6445 27.3964 33.7445C26.5174 32.2265 28.3564 32.0105 30.0304 28.8425C30.3304 28.2125 30.1774 27.7175 29.9554 27.2705C29.7304 26.8205 27.9394 22.4105 27.1894 20.6525C26.4694 18.9005 25.7284 19.1225 25.1734 19.1225C23.4454 18.9725 22.1824 18.9965 21.0694 20.1545C16.2274 25.4765 17.4484 30.9665 21.5914 36.8045C29.7334 47.4605 34.0714 49.4225 42.0034 52.1465C44.1454 52.8275 46.0984 52.7315 47.6434 52.5095C49.3654 52.2365 52.9444 50.3465 53.6914 48.2315C54.4564 46.1165 54.4564 44.3615 54.2314 43.9565C54.0094 43.5515 53.4214 43.3265 52.5214 42.9215Z" fill="black"></path>
+                                <path d="M61.56 10.3483C38.493 -11.9507 0.318 4.2223 0.303 35.6803C0.303 41.9683 1.95 48.1003 5.088 53.5153L0 72.0013L19.005 67.0453C42.72 79.8553 71.988 62.8453 72 35.6983C72 26.1703 68.28 17.2033 61.515 10.4653L61.56 10.3483ZM66.006 35.5993C65.988 58.4983 40.851 72.7993 20.97 61.1113L19.89 60.4693L8.64 63.3943L11.655 52.4593L10.938 51.3343C-1.434 31.6393 12.78 5.8993 36.216 5.8993C44.178 5.8993 51.651 9.0043 57.279 14.6293C62.904 20.2063 66.006 27.6793 66.006 35.5993Z" fill="black"></path>
+                            </svg>
+                        </a>
+                        <a href="https://youtube.com/@sharafelectrostore3936?si=HlRXdEOXvA6F7jlQ">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="89" height="65" viewBox="0 0 89 65">
+                                <path d="M44.4968 64.315C44.4893 64.315 44.4812 64.315 44.473 64.315C41.7875 64.2967 18.0464 64.0801 11.32 62.261C6.61922 60.9974 2.9084 57.2906 1.64135 52.5891C-0.118659 45.9816 -0.00662087 33.2602 0.00560142 32.2444C-0.00594185 31.2334 -0.119338 18.4068 1.63592 11.7449C1.63796 11.7388 1.63931 11.732 1.64135 11.7259C2.89414 7.07806 6.68848 3.25656 11.3085 1.98952C11.32 1.98612 11.3323 1.98341 11.3438 1.98001C17.9941 0.232224 41.7821 0.0183335 44.473 0H44.5212C47.2135 0.0183335 71.0178 0.23494 77.6823 2.05674C82.3709 3.31699 86.079 7.01899 87.3495 11.7144C89.1753 18.381 89.0063 31.2354 88.9879 32.3205C89.0008 33.3893 89.1074 45.9965 87.3576 52.6373C87.3563 52.6441 87.3542 52.6502 87.3529 52.6563C86.0851 57.3578 82.375 61.0646 77.6687 62.3296C77.6626 62.3316 77.6558 62.333 77.6497 62.335C71.0001 64.0821 47.2115 64.296 44.5212 64.315C44.5131 64.315 44.5049 64.315 44.4968 64.315ZM8.35682 13.528C6.81138 19.4083 6.95737 32.0713 6.95873 32.1989V32.2906C6.91255 35.8025 7.07484 45.9728 8.3575 50.7897C8.97948 53.0963 10.8094 54.9236 13.1303 55.5476C18.0932 56.89 37.4296 57.3123 44.4968 57.3619C51.5823 57.3123 70.9472 56.9015 75.8734 55.6128C78.1868 54.9867 80.0107 53.1656 80.6367 50.8563C81.9207 45.9687 82.0817 35.848 82.0348 32.3585C82.0348 32.3218 82.0348 32.2852 82.0355 32.2485C82.0993 28.6945 81.9737 18.4054 80.6428 13.5498C80.6415 13.545 80.6401 13.5403 80.6394 13.5355C80.0147 11.2187 78.1841 9.39147 75.8632 8.76746C70.9485 7.42368 51.5809 7.00269 44.4968 6.95312C37.416 7.00269 18.0701 7.41282 13.1289 8.70023C10.8522 9.33172 8.98084 11.2241 8.35682 13.528ZM35.6349 46.2369V18.0774L59.9709 32.1575L35.6349 46.2369Z" fill="black"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="bg_footer_penultimate_block">
+                <div class="sharaf__container__snippet footer_penultimate_block">
+                    <h3>Bayimiz olmak ister misiniz?</h3>
+                    <ul>
+                        <li>Bizimle satışa başlayın ve binlerce müşterimize ulaşın!</li>
+                        <li>
+                            <a href="#">Daha fazla bilgi edin
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer_last_block sharaf__container__snippet">
+                <p>
+                    <a href="#">COPYRIGHT © 2023 SHARAF STORE. ALL RIGHTS RESERVED</a>
+                </p>
+            </div>
+            <a href="https://wa.me/+905338508819" target="_blank" class="whats_app_block">
+                <i class="fa fa-whatsapp whats_app_icon"></i>
+                </a>
+            <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
+                        <div class="container py-3">
+                            <div class="row">
+                                <div class="col-sm text-center text-sm-left text-muted">
+                                    
+        
+    
+                                    <span class="o_footer_copyright_name mr-2">Copyright &copy; Company name</span>
+    
+    
+        
+        
+    
+        
+        
+    
+        <div class="js_language_selector  dropup">
+            <button class="btn btn-sm btn-link dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                
+        
+    <img class="o_lang_flag" src="/base/static/img/country_flags/tr.png?height=25" loading="lazy"/>
+
+    <span class="align-middle"> Türkçe</span>
+            
+            <span class="lang_btn_name"> Türkçe</span>
+            <span class="lang_btn_code" style="display:none">tr</span>
+        </button>
+            <div class="dropdown-menu" role="menu">
+                
+                    <a class="dropdown-item js_change_lang" href="/" data-url_code="en">
+                        
+        
+    <img class="o_lang_flag" src="/base/static/img/country_flags/us.png?height=25" loading="lazy"/>
+
+    
+            <span class="lang_btn_code" style="display:none">en</span>
+        <span>English (US)</span>
+                    </a>
+                
+                    <a class="dropdown-item js_change_lang" href="/tr/" data-url_code="tr">
+                        
+        
+    <img class="o_lang_flag" src="/base/static/img/country_flags/tr.png?height=25" loading="lazy"/>
+
+    
+            <span class="lang_btn_code" style="display:none">tr</span>
+        <span> Türkçe</span>
+                    </a>
+                
+        
+    
+
+    
+            </div>
+        </div>
+    
+        
+                                </div>
+                                <div class="col-sm text-center text-sm-right o_not_editable">
+                                    
+        
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            <script src="/theme_clarico_vega/static/lib/aos/aos.js"></script>
+            <script>
+                AOS.init({
+			  		easing: 'ease-out-back',
+					duration: 1500,
+					offset: 0,
+                    disable: function() {
+                        var maxWidth = 768;
+                        return window.innerWidth < maxWidth;
+                    }
+				});
+            </script>
+        
+        
+    
+                <noscript>
+                    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKDJ7BJ" height="0" width="0" style="display:none;visibility:hidden">
+                    </iframe>
+                </noscript>
+            <noscript>
+                    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=222367367029950&amp;ev=PageView&amp;noscript=1" loading="lazy"/>
+                </noscript>
+            
+            <div role="dialog" id="product_configure_model_main" class="o_not_editable" contenteditable="false"></div>
+        
+            <div role="dialog" id="hotspot_configure_model_main" class="o_not_editable" contenteditable="false"></div>
+        
+            <input id="id_lazyload" type="hidden" name="is_lazyload" value="true"/>
+            <input type="hidden" class="current_website_id" value="1"/>
+        </div>
+            <div class="d-none cus_theme_loader_layout">
+                <div class="cus_theme_loader_div_layout">
+                    <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" style="margin: auto;background: transparent;display: block;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+                        <g transform="translate(16.666666666666668 50)">
+                            <circle cx="0" cy="0" r="5" fill="#000000">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.48192771084337344s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(33.333333333333336 50)">
+                            <circle cx="0" cy="0" r="5" fill="#444444">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.36144578313253006s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(50 50)">
+                            <circle cx="0" cy="0" r="5" fill="#666666">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.24096385542168672s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(66.66666666666667 50)">
+                            <circle cx="0" cy="0" r="5" fill="#999999">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.12048192771084336s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(83.33333333333333 50)">
+                            <circle cx="0" cy="0" r="5" fill="#cccccc">
+                                <animateTransform attributeName="transform" type="scale" begin="0s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                    </svg>
+                </div>
+            </div>
+        
+                
+                    <script>
+                        
+            
+                window.addEventListener('load', function () {
+                    
+
+                    odoo.define('im_livechat.livesupport', function (require) {
+            
+                    });
+                });
+            
+        
+                    </script>
+                
+            
+        <script id="tracking_code">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'G-K2SLZFTEKW'.trim(), 'auto');
+            ga('send','pageview');
+        </script>
+    
+        
+        
+    </body>
+        </html>
+    
